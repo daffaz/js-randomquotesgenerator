@@ -51,12 +51,12 @@ const getQuote = () => {
 
     $("#tweet-quote").attr(
         'href',
-        'https://github.com/j3c118124'
+        'https://github.com/daffaz'
     );
 
     $("#fb-quote").attr(
         'href',
-        'https://github.com/j3c118124'
+        '#'
     );
 
     // Function to show the text
